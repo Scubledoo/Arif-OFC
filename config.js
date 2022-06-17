@@ -59,10 +59,10 @@ global.ppulsa2 = '0895347198105'
 global.psaweria = 'https://saweria.com/rifbotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6295347198105'
-global.nomorown = '62895347198105'
-global.namebot = 'RifBotZ-Md'
-global.nameown = 'ArifXyz OFC'
+global.nomorbot = '6282253363894'
+global.nomorown = '6282298952644'
+global.namebot = 'Necto-Md'
+global.nameown = 'yha'
 
 
 /*============== STAFF ==============*/
@@ -70,8 +70,8 @@ global.owner = [
   ['62895347198105', 'ArifXyZ OFC ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6282298952644] // Want some help?
+global.prems = [6282298952644] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Arif BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Rif - Gαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Arif 𝗕𝗢𝗧'
+global.wm = '                「 Necto BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘necto - Gαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ necto 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 ArifBotz あ⁩ 」'
+global.author = '                「 nectoBotz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
